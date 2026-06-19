@@ -1,0 +1,28 @@
+{
+  "name": "cloutinet-whatsapp-tools",
+  "version": "1.0.0",
+  "description": "Open-source utilities for Nigerian small business owners to generate WhatsApp business links, calculate visibility scores, and price products. Built by Cloutinet (cloutinet.online).",
+  "main": "index.js",
+  "keywords": [
+    "whatsapp",
+    "nigeria",
+    "business",
+    "sme",
+    "wa.me",
+    "whatsapp-link",
+    "nigerian-business",
+    "cloutinet",
+    "small-business",
+    "visibility-checker"
+  ],
+  "author": "Luper David <luperabenga8@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://cloutinet.online",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Luper-927/cloutinet-whatsapp-tools"
+  },
+  "bugs": {
+    "url": "https://cloutinet.online/feedback"
+  }
+}
